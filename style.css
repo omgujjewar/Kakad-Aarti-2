@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    user-select: none;
+}
+
+.athv {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.athvp {
+    margin-bottom: 30px;
+}
+
+.strotra {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.strotrap {
+    margin-bottom: 30px;
+}
+
+.sundar {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.sundarp {
+    margin-bottom: 30px;
+}
+
+.saklik {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.saklikp {
+    margin-bottom: 30px;
+}
+
+.sadkh {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.sadkhp {
+    margin-bottom: 30px;
+}
+
+.sukha {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.sukhap {
+    margin-bottom: 30px;
+}
+
+.durgat {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.durgatp {
+    margin-bottom: 30px;
+}
+
+.omkar {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.omkarp {
+    margin-bottom: 30px;
+}
+
+.dyanraj {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.dyanrajp {
+    margin-bottom: 30px;
+}
+
+.tukaram {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.tukaramp {
+    margin-bottom: 30px;
+}
+
+.shree {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.shreep {
+    margin-bottom: 30px;
+}
+
+.vittal {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.vittalp {
+    margin-bottom: 30px;
+}
+
+.tulsi {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.tulsip {
+    margin-bottom: 30px;
+}
+
+.hanuman {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.hanumanp {
+    margin-bottom: 30px;
+}
+
+.ovada {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.ovadap {
+    margin-bottom: 30px;
+}
+
+.kapur {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.kapurp {
+    margin-bottom: 30px;
+}
+
+.chalisa {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.chalisap {
+    margin-bottom: 30px;
+}
+
+.rudra {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 40px;
+}
+
+.rudrap {
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width:450px) {
+    .main {
+        margin: 0 20px;
+    }
+}
